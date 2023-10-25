@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ### About Me
 
-Coming soon...
+Welcome to my professional portfolio! I'm an aspiring software engineer with a background in Quality Assurance. I recently completed a challenging 24 week coding boot camp at App Academy, where I honed my coding skills and learned the ins and outs of full-stack software development.
+
+As a seasoned Quality Assurance Engineer with a track record of delivering high-quality software and efficiency across multiple high-profile organizations, I'm passionate about continuous improvement and am excited to apply my skills as a software engineer!
+
+Please feel free to explore my portfolio for more details on my projects. Thanks for visiting!
 
 ### Tech Stack
 
