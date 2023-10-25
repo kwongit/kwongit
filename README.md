@@ -38,8 +38,9 @@ Please feel free to explore my portfolio for more details on my projects. Thanks
 ### Coding Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kwongit)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kwongit&theme=dark)](https://git.io/streak-stats)
 
-## Connect
+### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kevinwon30/)
 - [Portfolio](https://kwongit.github.io/)
