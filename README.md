@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 😄  About Me
 
-Welcome to my professional portfolio! I'm a software engineer with over a decade of experience as a QA engineer. Recently, I found myself at a crossroads due to layoffs at Indeed. Instead of seeing it as a setback, I viewed it as an opportunity to refine my technical skills and transition into a development role.
+Welcome! I'm a software engineer with over a decade of experience as a QA engineer. Recently, I found myself at a crossroads due to layoffs at Indeed. Instead of seeing it as a setback, I viewed it as an opportunity to refine my technical skills and transition into a development role.
 
 During my time in App Academy's full-stack software engineering track, I immersed myself in building three full-stack applications. Using JavaScript, React, Redux, Python, Flask, and SQLAlchemy, I not only expanded my technical toolkit but also cultivated a deep appreciation for clean and efficient software development.
 
