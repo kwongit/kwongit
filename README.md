@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ### 😄  About Me
 
-Welcome! I'm a software engineer with over a decade of experience as a QA engineer. Recently, I found myself at a crossroads due to layoffs at Indeed. Instead of seeing it as a setback, I viewed it as an opportunity to refine my technical skills and transition into a development role.
+Hello, I'm Kevin—a software engineer with over a decade of experience as a Quality Assurance Engineer. Recently, I found myself at a crossroads due to layoffs at Indeed.com. But instead of seeing it as a setback, I viewed it as a perfect opportunity to level up my skill sets and transition into a development role.
 
-During my time in App Academy's full-stack software engineering track, I immersed myself in building three full-stack applications. Using JavaScript, React, Redux, Python, Flask, and SQLAlchemy, I not only expanded my technical toolkit but also cultivated a deep appreciation for clean and efficient software development.
+During my time in App Academy's full-stack software engineering track, I immersed myself in building three full-stack applications. Using JavaScript, React, Redux, Python, Flask, and SQLAlchemy, I not only expanded my technical toolkit but also cultivated a deep appreciation for clean and efficient code.
 
-What sets me apart amongst my fellow peers is my foundation in QA. Having spent years ensuring the quality of software, I bring a unique perspective to development. My understanding of testing, deployment, and the importance of quality gives me a holistic view of the entire software development life cycle.
+What sets me apart from my fellow cohort peers is my foundation in quality assurance. Having spent years ensuring the quality of software, I bring a unique perspective to development. My understanding of testing, deployment, and the importance of quality gives me a holistic view of the entire software development life cycle.
 
-I'm not just excited about this new chapter in my career; I'm genuinely eager to collaborate with forward-thinking teams. My goal is to contribute to the creation of reliable, high-performing applications. Let's embark on this journey together—I'm ready to bring my dual perspective and dedication to quality to your team!
+I'm not just excited about this new chapter in my career; I'm genuinely eager to collaborate with forward-thinking teams. My goal is to contribute to the creation of reliable and high-performing applications. Let's embark on this journey together—I'm ready to bring my dual perspective and dedication to quality to your team!
 
-Please feel free to explore my portfolio for more details on my projects. Thanks for visiting!
+Please feel free to explore my portfolio for more details on my projects. Thanks again for visiting my portfolio!
 
 ### 💻  Tech Stack
 
