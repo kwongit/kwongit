@@ -17,15 +17,7 @@ Here are some ideas to get you started:
 
 ### 😄  About Me
 
-Hello, I'm Kevin—a software engineer with over a decade of experience as a Quality Assurance Engineer. Recently, I found myself at a crossroads due to layoffs at Indeed.com. But instead of seeing it as a setback, I viewed it as a perfect opportunity to level up my skill sets and transition into a development role.
-
-During my time in App Academy's full-stack software engineering track, I immersed myself in building three full-stack applications. Using JavaScript, React, Redux, Python, Flask, and SQLAlchemy, I not only expanded my technical toolkit but also cultivated a deep appreciation for clean and efficient code.
-
-What sets me apart from my fellow cohort peers is my foundation in quality assurance. Having spent years ensuring the quality of software, I bring a unique perspective to development. My understanding of testing, deployment, and the importance of quality gives me a holistic view of the entire software development life cycle.
-
-I'm not just excited about this new chapter in my career; I'm genuinely eager to collaborate with forward-thinking teams. My goal is to contribute to the creation of reliable and high-performing applications. Let's embark on this journey together—I'm ready to bring my dual perspective and dedication to quality to your team!
-
-Please feel free to explore my portfolio for more details on my projects. Thanks again for visiting my portfolio!
+Hello, I'm Kevin—a software engineer with over a decade of experience in Quality Assurance. Facing layoffs at Indeed.com, I embraced the opportunity to transition into development. Through App Academy, I honed skills in JavaScript, React, Redux, Python, Flask, and SQLAlchemy, crafting three full-stack applications. My QA background offers a unique perspective on software development, emphasizing quality throughout the lifecycle. I'm eager to collaborate and contribute to high-performing applications. Explore my [portfolio](https://kwongit.github.io/) for details on my projects. Thank you for visiting!
 
 ### 💻  Tech Stack
 
