@@ -1,5 +1,4 @@
-### 👋  Hello, I'm Kevin!
-
+# Hi, I'm Kevin 👋
 <!--
 **kwongit/kwongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 😄  About Me
-
-Hello, I'm Kevin—a software engineer with over a decade of experience in Quality Assurance. Facing layoffs at Indeed.com, I embraced the opportunity to transition into development. Through App Academy, I honed skills in JavaScript, React, Redux, Python, Flask, and SQLAlchemy, crafting three full-stack applications. My QA background offers a unique perspective on software development, emphasizing quality throughout the lifecycle. I'm eager to collaborate and contribute to high-performing applications. Explore my [portfolio](https://kwongit.github.io/) for details on my projects. Thank you for visiting!
+I'm a software engineer with over a decade of experience in Quality Assurance. Facing layoffs at Indeed.com, I embraced the opportunity to transition into development. Through App Academy, I honed skills in JavaScript, React, Redux, Python, Flask, and SQLAlchemy, crafting three full-stack applications. My QA background offers a unique perspective on software development, emphasizing quality throughout the lifecycle. I'm eager to collaborate and contribute to high-performing applications. Explore my [portfolio](https://kwongit.github.io/) for details on my projects. Thank you for visiting!
 
 ### 💻  Tech Stack
 
