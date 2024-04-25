@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a seasoned software engineer with a decade of experience in Quality Assurance. After navigating a layoff at Indeed.com, I seized the opportunity to pivot into development. I honed my skills in JavaScript, React, Redux, Python, Flask, and SQLAlchemy through App Academy, culminating in the creation of three full-stack applications.
+I'm a seasoned software engineer with a decade of experience in Quality Assurance. After navigating a layoff at Indeed.com, I seized the opportunity to pivot into development. I honed my skills in JavaScript, React, Redux, Python, Flask, and SQLAlchemy through App Academy, culminating in the creation of three full stack applications.
 
 My QA background grants me a unique perspective on software development, with a strong emphasis on quality throughout the lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
 
