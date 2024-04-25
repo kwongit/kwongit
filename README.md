@@ -1,4 +1,4 @@
-# Hi, I'm Kevin 👋
+# 👋 Hi, I'm Kevin 
 <!--
 **kwongit/kwongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer with over a decade of experience in Quality Assurance. Facing layoffs at Indeed.com, I embraced the opportunity to transition into development. Through App Academy, I honed skills in JavaScript, React, Redux, Python, Flask, and SQLAlchemy, crafting three full-stack applications. My QA background offers a unique perspective on software development, emphasizing quality throughout the lifecycle. I'm eager to collaborate and contribute to high-performing applications. Explore my [portfolio](https://kwongit.github.io/) for details on my projects. Thank you for visiting!
+I'm a seasoned software engineer with a decade of experience in Quality Assurance. After navigating a layoff at Indeed.com, I seized the opportunity to pivot into development. I honed my skills in JavaScript, React, Redux, Python, Flask, and SQLAlchemy through App Academy, culminating in the creation of three full-stack applications.
+
+My QA background grants me a unique perspective on software development, with a strong emphasis on quality throughout the lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
+
+Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Let's connect and explore opportunities together! Thanks for visiting.
 
 ### 💻  Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -41,4 +46,3 @@ I'm a software engineer with over a decade of experience in Quality Assurance. F
 ### 📫  Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kevinwon30/)
-- [Portfolio](https://kwongit.github.io/)
