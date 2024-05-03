@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an experienced Software Quality Assurance Engineer with a passion for development. After a layoff at Indeed, I seized the opportunity to transition into software development. Intensively trained at App Academy, I mastered a diverse array of technologies including JavaScript, React/Redux, Node.js, HTML/CSS, SQL, PostgreSQL, Express, Sequelize, Python, Flask, SQLAlchemy, AWS, and Docker. This immersive experience culminated in the development of three full-stack applications, demonstrating my proficiency and readiness for software development roles.
+I'm an experienced Software Quality Assurance Engineer with a passion for development. After a layoff at Indeed, I seized the opportunity to transition into software development. Intensively trained at App Academy, I mastered a diverse array of technologies including JavaScript, React/Redux, HTML/CSS, Node.js, Express, Sequelize, SQL, PostgreSQL, Python, Flask, SQLAlchemy, AWS, and Docker. This immersive experience culminated in the development of three full-stack applications, demonstrating my proficiency and readiness for software development roles.
 
 My QA background provides a unique perspective, emphasizing quality throughout the software lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
 
@@ -26,13 +26,13 @@ Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Le
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23FCA121.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
