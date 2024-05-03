@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an experienced Software Quality Assurance Engineer with a passion for development. After a layoff at Indeed, I seized the opportunity to transition into software development. Intensively trained at App Academy, I mastered a diverse array of technologies including JavaScript, React/Redux, HTML/CSS, Node.js, Express, SQL, PostgreSQL, Sequelize, Python, Flask, SQLAlchemy, AWS, and Docker. This immersive experience culminated in the development of three full-stack applications, demonstrating my proficiency and readiness for software development roles.
+I'm an experienced Software Quality Assurance Engineer with a passion for development. After a layoff at Indeed, I seized the opportunity to transition into software development. Intensively trained at App Academy, I mastered a diverse array of technologies including JavaScript, React/Redux, Node.js, HTML/CSS, SQL, PostgreSQL, Express, Sequelize, Python, Flask, SQLAlchemy, AWS, and Docker. This immersive experience culminated in the development of three full-stack applications, demonstrating my proficiency and readiness for software development roles.
 
 My QA background provides a unique perspective, emphasizing quality throughout the software lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
 
