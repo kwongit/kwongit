@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an experienced Software Quality Assurance Engineer with strong development skills. After navigating a layoff at Indeed, I seized the opportunity to transition into software development. Through intensive training at App Academy, I dedicated myself to mastering an array of technologies including JavaScript, React/Redux, HTML/CSS, Node.js, Express, SQL, PostgreSQL, Sequelize, Python, Flask, SQLAlchemy, AWS, and Docker. This immersive experience led to the development of three full-stack applications, showcasing my proficiency and readiness to contribute effectively in software development roles.
+I'm an experienced Software Quality Assurance Engineer with a passion for development. After a layoff at Indeed, I seized the opportunity to transition into software development. Intensively trained at App Academy, I mastered a diverse array of technologies including JavaScript, React/Redux, HTML/CSS, Node.js, Express, SQL, PostgreSQL, Sequelize, Python, Flask, SQLAlchemy, AWS, and Docker. This immersive experience culminated in the development of three full-stack applications, demonstrating my proficiency and readiness for software development roles.
 
-My QA background grants me a unique perspective on software development, with a strong emphasis on quality throughout the lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
+My QA background provides a unique perspective, emphasizing quality throughout the software lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
 
-Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Let's connect and explore opportunities together! Thanks for visiting.
+Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Let's connect and explore opportunities together! Thank you for visiting.
 
 ### 💻  Tech Stack
 
