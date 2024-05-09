@@ -18,7 +18,7 @@ I'm an experienced software development professional with 10+ years in quality a
 
 My QA background provides a unique perspective, emphasizing quality throughout the software lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
 
-Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Let's connect and explore opportunities together! Thank you for visiting.
+Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Let's [connect](https://www.linkedin.com/in/kevinwon30/) and explore opportunities together! Thank you for visiting.
 
 ### 💻  Tech Stack
 
@@ -46,7 +46,3 @@ Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Le
 ### ⚡  Coding Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kwongit&theme=dark)](https://git.io/streak-stats)
-
-### 📫  Connect
-
-- [LinkedIn](https://www.linkedin.com/in/kevinwon30/)
