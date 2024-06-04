@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm a software development professional with a background in quality assurance. Intensively trained at App Academy, I mastered a diverse array of technologies including JavaScript, React, Redux, HTML, CSS, Node.js, Express, Sequelize, SQL, PostgreSQL, Python, Flask, SQLAlchemy, AWS, and Docker. This immersive experience culminated in the development of three full-stack applications, demonstrating my proficiency and readiness for software development roles.
 
-My QA background provides a unique perspective, emphasizing quality throughout the software lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
+My QA background provides a unique perspective, emphasizing quality throughout the entire software development lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
 
 Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Let's [connect](https://www.linkedin.com/in/kevinwon30/) and explore opportunities together! Thank you for visiting.
 
