@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software development professional with a background in quality assurance. Intensively trained at App Academy, I mastered a diverse array of technologies including JavaScript, React, Redux, HTML, CSS, Node.js, Express, Sequelize, SQL, PostgreSQL, Python, Flask, SQLAlchemy, AWS, and Docker. This immersive experience culminated in the development of three full-stack applications, demonstrating my proficiency and readiness for software development roles.
+I'm a versatile software engineer with a robust background in quality assurance and web development. After intensive training at App Academy, I mastered technologies such as JavaScript, React, Redux, HTML, CSS, Node.js, Express, Sequelize, SQL, PostgreSQL, Python, Flask, SQLAlchemy, AWS, and Docker. I developed three full-stack applications, showcasing my readiness for software development roles.
 
-My QA background provides a unique perspective, emphasizing quality throughout the entire software development lifecycle. I thrive on collaboration, continuous learning, and leveraging my skills to drive meaningful impact.
+My experience in QA adds a unique perspective, ensuring quality throughout the software development lifecycle. I thrive in collaborative environments, continuously learning, and leveraging my skills to drive meaningful impact.
 
-Explore my [portfolio](https://kwongit.github.io/) to delve into my projects. Let's [connect](https://www.linkedin.com/in/kevinwon30/) and explore opportunities together! Thank you for visiting.
+Feel free to explore the rest of my [portfolio](https://kwongit.github.io/) to see the projects I've developed. Let's [connect](https://www.linkedin.com/in/kevinwon30/) and explore new opportunities together! Thanks again for visiting!
 
 ### 💻  Tech Stack
 
