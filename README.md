@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a versatile software engineer with a robust background in quality assurance and web development. After intensive training at App Academy, I mastered technologies such as JavaScript, React, Redux, HTML, CSS, Node.js, Express, Sequelize, SQL, PostgreSQL, Python, Flask, SQLAlchemy, AWS, and Docker. I developed three full-stack applications, showcasing my readiness for software development roles.
+I'm a software engineer who’s passionate about building user-friendly web applications that solve real-world problems. My goal is to leverage my full-stack development skills to contribute to a company that aligns with my values.
 
-My experience in QA adds a unique perspective, ensuring quality throughout the software development lifecycle. I thrive in collaborative environments, continuously learning, and leveraging my skills to drive meaningful impact.
+For the past few years, I've been honing my skills across the development lifecycle. Previously, I spent over five years at Indeed.com, where I transitioned from a QA Engineer to an Automation Engineer.  In that role, I played a key part in improving the team's code coverage and streamlining testing processes. For instance, I refactored a Python testing framework to Java, reducing the number of test cases by 20%. This experience solidified my understanding of testing methodologies and their impact on software quality.
+
+Recently, I transitioned to a software engineer role at Terra Watts, a green tech startup. This shift allowed me to apply my skills to the front-end as well. I developed and maintained landing pages for a seed funding round, building an interactive site that resonated with their brand values. This experience gave me valuable insights into the full development cycle, from gathering requirements to deployment.
+
+I'm a highly collaborative individual who thrives in fast-paced environments. I'm constantly seeking new opportunities to learn and grow. 
 
 Feel free to explore the rest of my [portfolio](https://kwongit.github.io/) to see the projects I've developed. Let's [connect](https://www.linkedin.com/in/kevinwon30/) and explore new opportunities together! Thanks again for visiting!
 
