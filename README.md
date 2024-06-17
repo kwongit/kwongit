@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer who’s passionate about building user-friendly web applications that solve real-world problems. My goal is to leverage my full-stack development skills to contribute to a company that aligns with my values.
+I'm a passionate software engineer with a strong background in building user-friendly web applications.  I thrive in collaborative environments and constantly seek opportunities to learn and grow.
 
-For the past few years, I've been honing my skills across the development lifecycle. Previously, I spent over five years at Indeed.com, where I transitioned from a QA Engineer to an Automation Engineer.  In that role, I played a key part in improving the team's code coverage and streamlining testing processes. For instance, I refactored a Python testing framework to Java, reducing the number of test cases by 20%. This experience solidified my understanding of testing methodologies and their impact on software quality.
+My experience includes transitioning from a QA Engineer to a full-stack developer. I've honed my skills across the development lifecycle, from testing and automation to front-end development.  At Indeed.com, I played a key role in improving code coverage and streamlining testing processes. More recently, at Terra Watts, I developed interactive landing pages for their seed funding round.
 
-Recently, I transitioned to a software engineer role at Terra Watts, a green tech startup. This shift allowed me to apply my skills to the front-end as well. I developed and maintained landing pages for a seed funding round, building an interactive site that resonated with their brand values. This experience gave me valuable insights into the full development cycle, from gathering requirements to deployment.
-
-I'm a highly collaborative individual who thrives in fast-paced environments. I'm constantly seeking new opportunities to learn and grow. 
-
-Feel free to explore the rest of my [portfolio](https://kwongit.github.io/) to see the projects I've developed. Let's [connect](https://www.linkedin.com/in/kevinwon30/) and explore new opportunities together! Thanks again for visiting!
+Feel free to explore my [portfolio](https://kwongit.github.io/) to see more of my work. Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/)!
 
 ### 💻  Tech Stack
 
