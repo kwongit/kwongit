@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm a passionate software engineer with a strong background in building user-friendly web applications.  I thrive in collaborative environments and constantly seek opportunities to learn and grow.
 
-My experience includes transitioning from a QA Engineer to a full-stack developer. I've honed my skills across the development lifecycle, from testing and automation to front-end development.  At Indeed.com, I played a key role in improving code coverage and streamlining testing processes. More recently, at Terra Watts, I developed interactive landing pages for their seed funding round.
+My experience includes transitioning from a QA Engineer to a Full Stack Developer. I've honed my skills across the development lifecycle, from testing and automation to web development.  At Indeed, I played a key role in improving code coverage and streamlining testing processes. More recently, at Terra Watts, I developed interactive landing pages for their seed funding round.
 
 Feel free to explore my [portfolio](https://kwongit.github.io/) to see more of my work. Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/)!
 
