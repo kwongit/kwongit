@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a passionate Software Development Engineer in Test with a strong background in building user-friendly web applications.  I thrive in collaborative environments and constantly seek opportunities to learn and grow.
+I'm a versatile QA Automation Engineer with a robust background in Quality Assurance and Web Development.
 
-My experience includes being a Quality Assurance Engineer / Web Developer. I've honed my skills across the development lifecycle, from testing and automation to web development.  At Indeed, I played a key role in improving code coverage and streamlining testing processes. More recently, at Terra Watts, I developed interactive landing pages for their seed funding round.
+Experience includes being a Quality Assurance Engineer / Web Developer, honing skills across the development lifecycle, from testing and automation to web development. At Indeed, played a key role in improving code coverage and streamlining testing processes. More recently, at Terra Watts, developed interactive landing pages for seed funding round.
 
 Feel free to explore my [portfolio](https://kwongit.github.io/) to see more of my work. Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/)!
 
