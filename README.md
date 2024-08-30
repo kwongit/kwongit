@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a versatile QA Automation Engineer with a robust background in Quality Assurance and Web Development.
+I'm a versatile Quality Assurance Automation Engineer with a robust background in Quality Assurance and Web Development.
 
 Experience includes being a Quality Assurance Engineer / Web Developer, honing skills across the development lifecycle, from testing and automation to web development. At Indeed, played a key role in improving code coverage and streamlining testing processes. More recently, at Terra Watts, developed interactive landing pages for seed funding round.
 
