@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm a versatile QA Automation Engineer with a strong background in Quality Assurance and Test Automation.
 
-With experience across the development lifecycle, I specialize in optimizing CI/CD pipelines, improving test coverage, and automating complex testing scenarios. At Indeed, I collaborated with cross-functional teams to boost test automation coverage to 80%, streamline build processes, and reduce system downtime by 95%.
+With experience across the software development lifecycle, I specialize in optimizing CI/CD pipelines, improving test coverage, and automating complex testing scenarios. At Indeed, I collaborated with cross-functional teams to boost test automation coverage to 80%, streamline build processes, and reduce system downtime by 95%.
 
 While my [portfolio site](https://kwongit.github.io/) showcases web development projects I built during my coding bootcamp, it highlights my technical skills and problem-solving abilities. Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
 
