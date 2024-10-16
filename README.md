@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a versatile QA Automation Engineer with a strong background in Quality Assurance and Test Automation.
+I'm a versatile QA Engineer with experience in Quality Assurance and Test Automation.
 
 With experience across the software development lifecycle, I specialize in optimizing CI/CD pipelines, improving test coverage, and automating complex testing scenarios. At Indeed, I collaborated with cross-functional teams to boost test automation coverage to 80%, streamline build processes, and reduce system downtime by 95%.
 
