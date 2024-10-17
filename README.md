@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a QA Engineer with a focus on ensuring quality across the software development lifecycle, combining manual testing with test automation to drive efficiency. At Indeed, I worked with cross-functional teams to improve test automation coverage to 80%, streamline build processes, and reduce system downtime by 95%. My experience spans optimizing CI/CD pipelines and enhancing test coverage, but I approach testing holistically, ensuring both manual and automated testing meet the highest standards.
+I'm a QA Engineer with a focus on ensuring quality across the software development lifecycle, combining manual testing with test automation to drive efficiency. At Indeed, I worked with cross-functional teams to improve test automation coverage to 80%, streamline build processes, and reduce system downtime by 40%. My experience spans optimizing CI/CD pipelines and enhancing test coverage, but I approach testing holistically, ensuring both manual and automated testing meet the highest standards.
 
 My [portfolio site](https://kwongit.github.io/) showcases web development projects from my coding bootcamp, demonstrating my technical versatility and problem-solving skills. Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
 
