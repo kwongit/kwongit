@@ -20,6 +20,7 @@ I'm a QA Engineer with a focus on ensuring quality across the software developme
 My [portfolio site](https://kwongit.github.io/) showcases web development projects from my coding bootcamp, demonstrating my technical versatility and problem-solving skills. Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
 -->
 
+<!--
 I'm a Software Professional with a robust background in Quality Assurance, committed to building high-quality software and optimizing development processes. Leveraging experience in CI/CD pipelines and test automation, I bring a comprehensive understanding of the software lifecycle to ensure each product release is robust and user-centered.
 
 At Indeed, I collaborated with cross-functional teams to increase test automation coverage by 80%, reduce system downtime by 40%, and streamline build processes—efforts that reinforced product stability and accelerated deployment cycles.
@@ -27,6 +28,15 @@ At Indeed, I collaborated with cross-functional teams to increase test automatio
 My [portfolio site](https://kwongit.github.io/) showcases projects built during my coding bootcamp, reflecting my technical versatility and problem-solving skills across development and testing.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
+-->
+
+I'm a dedicated QA Engineer passionate about delivering top-quality software through rigorous testing and process optimization. 
+
+At Indeed, I partnered with cross-functional teams to elevate test automation coverage to 80%, streamline build processes, and cut system downtime by 40%. My approach combines manual testing with automated solutions, enabling thorough validation across the software development lifecycle. My experience spans CI/CD pipeline optimization, test coverage enhancement, and proactive collaboration to uphold quality at every stage. 
+
+My [portfolio site](https://kwongit.github.io/) showcases web development projects from my coding bootcamp, reflecting my technical versatility and commitment to excellence in QA. 
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/)!
 
 ### 💻  Tech Stack
 
