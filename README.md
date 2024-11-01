@@ -1,4 +1,4 @@
-# 👋 Hi, I am Kevin Won
+# 👋 Hi, I'm Kevin Won
 <!--
 **kwongit/kwongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
