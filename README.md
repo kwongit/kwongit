@@ -30,7 +30,7 @@ My [portfolio site](https://kwongit.github.io/) showcases projects built during 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
 -->
 
-I'm a dedicated QA Engineer passionate about delivering top-quality software through rigorous testing and process optimization. 
+I'm a dedicated Software Quality Assurance Engineer passionate about delivering top-quality software through rigorous testing and process optimization. 
 
 At Indeed, I partnered with cross-functional teams to elevate test automation coverage to 80%, streamline build processes, and cut system downtime by 40%. My approach combines manual testing with automated solutions, enabling thorough validation across the software development lifecycle. My experience spans CI/CD pipeline optimization, test coverage enhancement, and proactive collaboration to uphold quality at every stage. 
 
