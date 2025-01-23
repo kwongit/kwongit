@@ -1,33 +1,6 @@
-# 👋 Hi, I'm Kevin
+# Hi, I'm Kevin 👋 
 <!--
 **kwongit/kwongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-I'm a QA Engineer with a focus on ensuring quality across the software development lifecycle, combining manual testing with test automation to drive efficiency. At Indeed, I worked with cross-functional teams to improve test automation coverage to 80%, streamline build processes, and reduce system downtime by 40%. My experience spans optimizing CI/CD pipelines and enhancing test coverage, but I approach testing holistically, ensuring both manual and automated testing meet the highest standards.
-
-My [portfolio site](https://kwongit.github.io/) showcases web development projects from my coding bootcamp, demonstrating my technical versatility and problem-solving skills. Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
--->
-
-<!--
-I'm a Software Professional with a robust background in Quality Assurance, committed to building high-quality software and optimizing development processes. Leveraging experience in CI/CD pipelines and test automation, I bring a comprehensive understanding of the software lifecycle to ensure each product release is robust and user-centered.
-
-At Indeed, I collaborated with cross-functional teams to increase test automation coverage by 80%, reduce system downtime by 40%, and streamline build processes—efforts that reinforced product stability and accelerated deployment cycles.
-
-My [portfolio site](https://kwongit.github.io/) showcases projects built during my coding bootcamp, reflecting my technical versatility and problem-solving skills across development and testing.
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
 -->
 
 <!--
@@ -40,12 +13,32 @@ My [portfolio site](https://kwongit.github.io/) showcases web development projec
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/)!
 -->
 
+<!--
 I’m a Support Engineer with a strong foundation in QA and development, dedicated to solving technical challenges and improving user experiences.
 
 I specialize in troubleshooting deployment issues, optimizing workflows, and resolving customer-reported problems to enhance system reliability. My experience includes debugging APIs, streamlining CI/CD processes, and collaborating with cross-functional teams to deliver impactful solutions.
 
-Let’s connect!
+My [portfolio site](https://kwongit.github.io/) showcases web development projects from my coding bootcamp, reflecting my technical versatility. 
 
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/)!
+-->
+
+I'm a **Support Engineer** with a strong foundation in **Quality Assurance** and **Web Development**, driven by a passion for solving technical challenges and delivering exceptional user experiences.
+
+### My Expertise:
+- 🛠️ Troubleshoot deployment issues and optimize workflows to ensure seamless application performance.
+- 🔍 Debug APIs and resolve customer-reported problems, improving system reliability and user satisfaction.
+- 🚀 Streamline CI/CD processes and collaborate with cross-functional teams to deliver impactful solutions.
+
+### Explore My Work:
+- 🌐 Visit my [portfolio site](https://kwongit.github.io/) for web development projects showcasing API integrations, responsive design, and cloud-based solutions.
+
+### Let’s Connect:
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
+
+---
+
+<!--
 ### 💻  Tech Stack
 
 ## Front-End
@@ -97,6 +90,44 @@ Let’s connect!
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+-->
+
+# 💻 Tech Stack
+
+## API & Testing Tools
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+- ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+- ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+## APIs & Back-End
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Monitoring & Debugging
+- ![DataDog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+- ![Chrome DevTools](https://img.shields.io/badge/chrome%20devtools-%4285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+## Front-End
+- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## DevOps & Deployment
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ### ⚡  Coding Stats
 
