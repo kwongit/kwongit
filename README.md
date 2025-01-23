@@ -30,6 +30,7 @@ My [portfolio site](https://kwongit.github.io/) showcases projects built during 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/).
 -->
 
+<!--
 I'm a dedicated Software Quality Assurance Engineer with development experience - passionate about delivering top-quality software through rigorous testing and process optimization. 
 
 At Indeed, I partnered with cross-functional teams to elevate test automation coverage to 80%, streamline build processes, and cut system downtime by 40%. My approach combines manual testing with automated solutions, enabling thorough validation across the software development lifecycle. My experience spans CI/CD pipeline optimization, test coverage enhancement, and proactive collaboration to uphold quality at every stage. 
@@ -37,6 +38,13 @@ At Indeed, I partnered with cross-functional teams to elevate test automation co
 My [portfolio site](https://kwongit.github.io/) showcases web development projects from my coding bootcamp, reflecting my technical versatility and commitment to excellence in QA. 
 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kevinwon30/)!
+-->
+
+I’m a Support Engineer with a strong foundation in QA and development, dedicated to solving technical challenges and improving user experiences.
+
+I specialize in troubleshooting deployment issues, optimizing workflows, and resolving customer-reported problems to enhance system reliability. My experience includes debugging APIs, streamlining CI/CD processes, and collaborating with cross-functional teams to deliver impactful solutions.
+
+Let’s connect!
 
 ### 💻  Tech Stack
 
