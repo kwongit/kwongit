@@ -3,7 +3,7 @@
 **kwongit/kwongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a **Full-Stack Developer** with a strong foundation in **Quality Assurance** and **Web Development**, driven by a passion for solving technical challenges and delivering exceptional user experiences.
+I'm a **Support Engineer** with a strong foundation in **Quality Assurance** and **Web Development**, driven by a passion for solving technical challenges and delivering exceptional user experiences.
 
 ### My Expertise:
 - 🛠️ Troubleshoot deployment issues and optimize workflows to ensure seamless application performance.
